@@ -1,1 +1,0 @@
-console.log("privet"),console.log("epta"),console.log("los"),console.log("opaaaaaaaa");
